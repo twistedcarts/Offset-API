@@ -22,7 +22,7 @@
   "CameraRotation": "0xF0",
   "CameraSubject": "0xE0",
   "CameraType": "0x150",
-  "CanCollide": "0x294",
+  "CanCollide": "0x14A3",
   "CanCollideMask": "0x8",
   "CanTouch": "0x294",
   "CanTouchMask": "0x10",
